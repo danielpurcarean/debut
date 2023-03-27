@@ -9,7 +9,7 @@
     "color_text_field": "#ffffff",
     "color_borders": "#ebebeb",
     "color_body_bg": "#ffffff",
-    "social_instagram_link": "",
+    "social_instagram_link": "http:\/\/instagram.com\/moneer.clothing",
     "currency_code_enabled": false,
     "sections": {
       "header": {
@@ -147,7 +147,7 @@
           "color_footer_bg": "#f6f6f6",
           "color_footer_text": "#333232",
           "show_currency_selector": true,
-          "show_locale_selector": true
+          "show_locale_selector": false
         }
       }
     },
