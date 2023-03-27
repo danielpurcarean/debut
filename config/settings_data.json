@@ -7,6 +7,7 @@
     "color_button_text": "#ffffff",
     "color_text_field_border": "#cccccc",
     "color_text_field": "#ffffff",
+    "color_image_overlay": "#272727",
     "image_overlay_opacity": 25,
     "color_borders": "#ebebeb",
     "color_body_bg": "#ffffff",
