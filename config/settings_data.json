@@ -144,8 +144,8 @@
         ],
         "settings": {
           "show_payment_icons": true,
-          "color_footer_bg": "#f6f6f6",
-          "color_footer_text": "#333232",
+          "color_footer_bg": "#272727",
+          "color_footer_text": "#ffffff",
           "show_currency_selector": true,
           "show_locale_selector": true
         }
