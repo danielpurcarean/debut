@@ -6978,3 +6978,7 @@ hr {
 
 .store-availability-list__phone {
   margin-bottom: 0; }
+
+.template-product [data-image-loading-animation] {
+background-color: transparent !important;
+}
