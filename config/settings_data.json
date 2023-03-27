@@ -1,9 +1,15 @@
 {
   "current": {
-    "color_sale_text": "#1773b0",
+    "color_text": "#3a3a3a",
+    "color_body_text": "#333232",
+    "color_sale_text": "#3a3a3a",
+    "color_button": "#3a3a3a",
+    "color_button_text": "#ffffff",
     "color_text_field_border": "#cccccc",
+    "color_text_field": "#ffffff",
     "color_borders": "#ebebeb",
-    "currency_code_enabled": true,
+    "color_body_bg": "#ffffff",
+    "currency_code_enabled": false,
     "sections": {
       "header": {
         "type": "header",
