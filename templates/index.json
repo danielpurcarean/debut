@@ -24,20 +24,10 @@
         "show_vendor": false,
         "show_view_all": false
       }
-    },
-    "43a8aba5-3186-4d19-b7f4-69db7a40137e": {
-      "type": "rich-text",
-      "settings": {
-        "full_width": false,
-        "section_title": "MONEER CLOTHING",
-        "text": "<p>Founded in 2022<\/p>",
-        "text_size": "medium"
-      }
     }
   },
   "order": [
     "hero-1",
-    "collection",
-    "43a8aba5-3186-4d19-b7f4-69db7a40137e"
+    "collection"
   ]
 }
