@@ -6978,3 +6978,8 @@ hr {
 
 .store-availability-list__phone {
   margin-bottom: 0; }
+
+.site-header__logo-image {
+background: transparent!Important;
+animation: none!important;
+}
