@@ -25,7 +25,7 @@
           "message": true,
           "home_page_only": true,
           "message_text": "WELCOME TO OUR STORE",
-          "message_link": "",
+          "message_link": "shopify:\/\/collections\/all",
           "color_bg": "#202020",
           "color_text": "#ffffff"
         }
