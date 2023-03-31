@@ -11,9 +11,11 @@
     "image_overlay_opacity": 25,
     "color_borders": "#ebebeb",
     "color_body_bg": "#ffffff",
+    "predictive_search_show_vendor": true,
+    "predictive_search_show_price": true,
     "social_instagram_link": "http:\/\/instagram.com\/moneer.clothing",
     "favicon": "shopify:\/\/shop_images\/BLACK_FRONT_14_7.png",
-    "currency_code_enabled": false,
+    "currency_code_enabled": true,
     "checkout_header_image": "shopify:\/\/shop_images\/new-york-city-skyline-at-night.jpg",
     "sections": {
       "header": {
