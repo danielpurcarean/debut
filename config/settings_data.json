@@ -33,11 +33,11 @@
           "logo": "shopify:\/\/shop_images\/Design_fara_titlu_20.png",
           "logo_max_width": 205,
           "main_linklist": "main-menu",
-          "message": false,
+          "message": true,
           "home_page_only": true,
           "message_text": "",
           "message_link": "",
-          "color_bg": "#202020",
+          "color_bg": "#12348e",
           "color_text": "#ffffff"
         }
       },
