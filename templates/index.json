@@ -10,8 +10,8 @@
         "text_size": "medium",
         "title": "NEW ARRIVALS",
         "text": "",
-        "button_label": "",
-        "button_link": ""
+        "button_label": "SHOP ALL",
+        "button_link": "shopify:\/\/collections\/all"
       }
     },
     "collection": {
