@@ -140,6 +140,7 @@
         "blocks": {
           "footer-1": {
             "type": "newsletter",
+            "disabled": true,
             "settings": {
               "title": "NEWSLETTER"
             }
