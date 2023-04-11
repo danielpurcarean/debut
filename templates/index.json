@@ -3,12 +3,12 @@
     "c735458c-9a43-4975-8226-cccaa1c52bc5": {
       "type": "hero",
       "settings": {
-        "image": "shopify:\/\/shop_images\/model-with-leather-jacket-over-shoulders.jpg",
+        "image": "shopify:\/\/shop_images\/fashion-model-in-black-white.jpg",
         "alignment": "center",
         "hero_layout": "full_width",
-        "hero_size": "small",
+        "hero_size": "medium",
         "text_size": "medium",
-        "title": "",
+        "title": "SINCE 2022",
         "text": "",
         "button_label": "",
         "button_link": ""
