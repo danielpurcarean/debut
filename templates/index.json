@@ -8,8 +8,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/mens-tshirts.jpg",
             "alignment": "center center",
-            "slide_title": "Image slide",
-            "subheading": "Tell your brand's story through images",
+            "slide_title": "",
+            "subheading": "",
             "button_label": "",
             "button_link": ""
           }
@@ -19,8 +19,19 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/model-in-neutral-colors-by-window.jpg",
             "alignment": "center center",
-            "slide_title": "Image slide",
-            "subheading": "Tell your brand's story through images",
+            "slide_title": "",
+            "subheading": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "83983c54-3619-4ad8-add4-31cdb1904ba6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/scissors-cutting-fabric-straight-on.jpg",
+            "alignment": "center center",
+            "slide_title": "",
+            "subheading": "",
             "button_label": "",
             "button_link": ""
           }
@@ -28,7 +39,8 @@
       },
       "block_order": [
         "template--18470148047190__d75549e7-e0a4-4b53-98d1-c420c8c4f30a-16812217221aa5e569-0",
-        "template--18470148047190__d75549e7-e0a4-4b53-98d1-c420c8c4f30a-16812217221aa5e569-1"
+        "template--18470148047190__d75549e7-e0a4-4b53-98d1-c420c8c4f30a-16812217221aa5e569-1",
+        "83983c54-3619-4ad8-add4-31cdb1904ba6"
       ],
       "settings": {
         "slideshow_height": "adapt",
@@ -36,7 +48,7 @@
         "text_alignment": "center center",
         "show_overlay": true,
         "autorotate": true,
-        "autorotate_speed": 5
+        "autorotate_speed": 3
       }
     },
     "c735458c-9a43-4975-8226-cccaa1c52bc5": {
