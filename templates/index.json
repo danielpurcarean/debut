@@ -19,7 +19,7 @@
       "settings": {
         "title": "PRODUCTS",
         "collection": "all-products",
-        "grid": 4,
+        "grid": 3,
         "rows": 2,
         "show_vendor": false,
         "show_view_all": true
