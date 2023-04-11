@@ -11,6 +11,10 @@
     "image_overlay_opacity": 25,
     "color_borders": "#ebebeb",
     "color_body_bg": "#ffffff",
+    "type_header_font": "cabin_n4",
+    "type_header_base_size": 26,
+    "type_base_font": "arimo_n4",
+    "type_base_size": 16,
     "predictive_search_show_vendor": true,
     "predictive_search_show_price": true,
     "social_instagram_link": "http:\/\/instagram.com\/moneer.clothing",
@@ -20,6 +24,9 @@
     "sections": {
       "header": {
         "type": "header",
+        "custom_css": [
+
+        ],
         "settings": {
           "align_logo": "left",
           "logo": "shopify:\/\/shop_images\/BLACK_FRONT_14_6_1_155d1aa5-9a40-4c4b-bd61-646bc79de217.png",
