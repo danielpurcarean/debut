@@ -1,17 +1,17 @@
 {
   "sections": {
-    "hero-1": {
+    "c735458c-9a43-4975-8226-cccaa1c52bc5": {
       "type": "hero",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Design_fara_titlu_13.png",
+        "image": "shopify:\/\/shop_images\/busy-paris-street_9cf58479-065e-4ca0-8013-5c1b4b9d75a4.jpg",
         "alignment": "center",
         "hero_layout": "full_width",
-        "hero_size": "large",
-        "text_size": "large",
+        "hero_size": "medium",
+        "text_size": "medium",
         "title": "NEW ARRIVALS",
-        "text": "",
-        "button_label": "SHOP ALL",
-        "button_link": "shopify:\/\/collections\/all"
+        "text": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
+        "button_label": "",
+        "button_link": ""
       }
     },
     "collection": {
@@ -27,7 +27,7 @@
     }
   },
   "order": [
-    "hero-1",
+    "c735458c-9a43-4975-8226-cccaa1c52bc5",
     "collection"
   ]
 }
