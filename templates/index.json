@@ -6,12 +6,12 @@
         "image": "shopify:\/\/shop_images\/model-in-neutral-colors-by-window.jpg",
         "alignment": "center",
         "hero_layout": "full_width",
-        "hero_size": "medium",
+        "hero_size": "small",
         "text_size": "medium",
-        "title": "NEW ARRIVALS",
+        "title": "",
         "text": "",
-        "button_label": "SHOP ALL",
-        "button_link": "shopify:\/\/collections\/all"
+        "button_label": "",
+        "button_link": ""
       }
     },
     "collection": {
