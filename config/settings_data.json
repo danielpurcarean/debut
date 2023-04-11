@@ -34,7 +34,7 @@
           "main_linklist": "main-menu",
           "message": true,
           "home_page_only": true,
-          "message_text": "SHINE IN THE DARK.",
+          "message_text": "",
           "message_link": "",
           "color_bg": "#202020",
           "color_text": "#ffffff"
