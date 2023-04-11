@@ -33,7 +33,7 @@
           "logo": "shopify:\/\/shop_images\/Design_fara_titlu_20.png",
           "logo_max_width": 205,
           "main_linklist": "main-menu",
-          "message": true,
+          "message": false,
           "home_page_only": true,
           "message_text": "",
           "message_link": "",
