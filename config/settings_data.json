@@ -26,7 +26,7 @@
       "header": {
         "type": "header",
         "custom_css": [
-          "h2 {font-size: 1px; text-align: center;}"
+          "h2 {font-size: 10px; text-align: center;}"
         ],
         "settings": {
           "align_logo": "left",
