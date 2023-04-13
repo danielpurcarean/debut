@@ -37,7 +37,7 @@
           "home_page_only": true,
           "message_text": "20% DISCOUNT FOR ORDERS OVER €100",
           "message_link": "",
-          "color_bg": "#1c1c1c",
+          "color_bg": "#000000",
           "color_text": "#e7e7e7"
         }
       },
