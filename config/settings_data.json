@@ -6,7 +6,7 @@
     "color_button": "#000000",
     "color_button_text": "#ffffff",
     "color_small_button_text_border": "#3a3a3a",
-    "color_text_field_border": "#cccccc",
+    "color_text_field_border": "rgba(0,0,0,0)",
     "color_text_field": "#ffffff",
     "color_image_overlay": "#12348e",
     "image_overlay_opacity": 25,
