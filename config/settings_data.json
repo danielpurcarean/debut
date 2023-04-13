@@ -37,7 +37,7 @@
           "home_page_only": true,
           "message_text": "",
           "message_link": "",
-          "color_bg": "#12348e",
+          "color_bg": "#000000",
           "color_text": "#ffffff"
         }
       },
