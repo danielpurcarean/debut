@@ -30,8 +30,8 @@
         ],
         "settings": {
           "align_logo": "left",
-          "logo": "shopify:\/\/shop_images\/Design_fara_titlu_20.png",
-          "logo_max_width": 205,
+          "logo": "shopify:\/\/shop_images\/Artboard_1.png",
+          "logo_max_width": 130,
           "main_linklist": "main-menu",
           "message": true,
           "home_page_only": true,
