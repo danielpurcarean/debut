@@ -26,7 +26,7 @@
       "header": {
         "type": "header",
         "custom_css": [
-
+          "h2 {font-size: 1px; text-align: center;}"
         ],
         "settings": {
           "align_logo": "left",
@@ -35,8 +35,8 @@
           "main_linklist": "main-menu",
           "message": true,
           "home_page_only": true,
-          "message_text": "",
-          "message_link": "",
+          "message_text": "20% DISCOUNT FOR ORDERS OVER €100",
+          "message_link": "shopify:\/\/collections\/all",
           "color_bg": "#000000",
           "color_text": "#ffffff"
         }
